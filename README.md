@@ -5,14 +5,14 @@
 Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Concluí o ensino médio no Colegio Passionista São Paulo da Cruz. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM (av.paulista) 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@Pedro_Henriqq">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLNw8vS9FTTux2eTIcfOJnQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@Pedro_Henriqq">
         <img 
             alt="youtube views" 
             title="Visualizações no YouTube" 
