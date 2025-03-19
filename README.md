@@ -82,14 +82,6 @@ Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Conc
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Materialize/Materialize-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
