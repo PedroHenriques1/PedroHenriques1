@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Henrique
 
-**`Desenvolvedoro`**
+**`Desenvolvedor`**
 
 Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Concluí o ensino médio no Colegio Passionista São Paulo da Cruz. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM (av.paulista) 
 
@@ -87,14 +87,6 @@ Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Conc
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
