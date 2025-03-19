@@ -2,7 +2,7 @@
 
 **`Desenvolvedoro`**
 
-Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Concluí o ensino médio no Colegio Passionista São Paulo da Cruz. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM (av.paulista) Sou apaixonado por tecnologia
+Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Concluí o ensino médio no Colegio Passionista São Paulo da Cruz. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM (av.paulista) 
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
