@@ -116,7 +116,7 @@ Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Conc
     align="left" 
     alt="GitHub Stats" 
     height="180" 
-    style="padding-right: 10px;" 
+    style="padding-right: 2px;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroHenriques1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
