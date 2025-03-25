@@ -62,6 +62,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
 
 ### 🤖 Linguagens e Tecnologias
 <br>
+
 <img 
     align="left" 
     alt="HTML"
@@ -118,9 +119,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-
-
 
 <br/>
 
