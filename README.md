@@ -132,7 +132,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroHenriques1&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=FFFFFF&title_color=87CEEB&text_color=87CEEB&border_radius=3&border_color=87CEEB&icon_color=87CEEB&theme=jolly" alt="GitHub stats">
 
 <a href="https://github.com/PedroHenriques1/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroHenriques1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=87CEEB&hide=html,scss,less&bg_color=FFFFFF&text_color=87CEEB&border_radius=3&border_color=87CEEB&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroHenriques1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=87CEEB&hide=html,scss,less&bg_color=0d1117F&text_color=87CEEB&border_radius=3&border_color=87CEEB&count_private=true" alt="Most Used Languages">
 </a>
 
 
