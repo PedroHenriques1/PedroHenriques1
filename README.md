@@ -11,7 +11,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Concluí o ensino médio no Colegio Passionista São Paulo da Cruz. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM (av.paulista) 
+Sou Pedro Henrique da Silva, estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM) – Campus Avenida Paulista. Concluí o ensino médio no Colégio Passionista São Paulo da Cruz e atualmente aprimoro minhas habilidades em desenvolvimento de software, análise de dados e web design. Tenho interesse em Java, modelagem de sistemas e infraestrutura de TI, sempre buscando aprimorar meus conhecimentos e contribuir para projetos inovadores!
 
 <p align="left">
     <a href="https://www.youtube.com/@Pedro_Henriqq">
@@ -115,7 +115,7 @@ Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Conc
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* ### 📊 Estatísticas *</h3>
+  <h3></h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroHenriques1&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
