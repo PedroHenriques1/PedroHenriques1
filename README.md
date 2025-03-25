@@ -11,7 +11,7 @@
 
 **`Desenvolvedor`**
 
-Sou Pedro Henrique da Silva, estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM) – Campus Avenida Paulista. Concluí o ensino médio no Colégio Passionista São Paulo da Cruz e atualmente aprimoro minhas habilidades em desenvolvimento de software, análise de dados e web design. Tenho interesse em Java, modelagem de sistemas e infraestrutura de TI, sempre buscando aprimorar meus conhecimentos e contribuir para projetos inovadores!
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM) – Campus Avenida Paulista. Concluí o ensino médio no Colégio Passionista São Paulo da Cruz e atualmente aprimoro minhas habilidades em desenvolvimento de software, análise de dados e web design. Tenho interesse em Java, modelagem de sistemas e infraestrutura de TI, sempre buscando aprimorar meus conhecimentos e contribuir para projetos inovadores!
 
 <p align="left">
     <a href="https://www.youtube.com/@Pedro_Henriqq">
