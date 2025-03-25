@@ -50,23 +50,6 @@ Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Conc
 
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -91,11 +74,27 @@ Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Conc
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Springboot"
+    title="Springboot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springboot/springboot-original.svg" 
 />
 <img 
     align="left" 
