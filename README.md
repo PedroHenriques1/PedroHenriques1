@@ -98,14 +98,6 @@ Sou Pedro Henrique da Silva, estudante de Análise e Desenvolvimento de Sistemas
 />
 <img 
     align="left" 
-    alt="Springboot"
-    title="Springboot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
