@@ -60,7 +60,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<br>
 <img 
     align="left" 
     alt="HTML"
