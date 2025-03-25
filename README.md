@@ -94,7 +94,7 @@ Me chamo Pedro Henrique da Silva, tenho 20 anos e sou natural de Sao Paulo. Conc
     title="Springboot" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springboot/springboot-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
