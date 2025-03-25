@@ -122,9 +122,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
 
 <br/>
 
-### 📊 Estatísticas
+---
 
-#
+### 📊 Estatísticas
 
 <div style="text-align: center;" align="center">
   <br>
