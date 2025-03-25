@@ -42,6 +42,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
             src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a> 
+  </p>
 <!--
 <img align="right" alt="" height="190px" src="./src/study.gif">
 -->
@@ -56,7 +57,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
 
 </div>
 </p>
-
 
 ---
 
