@@ -46,7 +46,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
 <!--
 <img align="right" alt="" height="190px" src="./src/study.gif">
 -->
-<div style="text-align: center;" align="center">
+<div style="text-align: right;" align="right">
 <br>
  <!--
 <h3 align="center"></h3> 
