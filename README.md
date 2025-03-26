@@ -25,14 +25,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
         <img 
             alt="youtube views" 
             title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=BED7DC&logo=eye&logoColor=white&style=for-the-badge&labelColor=BED7DC"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=BED7DC&logo=eye&logoColor=white&style=for-the-badge&labelColor=BED7DC&logoColor=black"
         />
     </a> 
     <a href="https://github.com/PedroHenriques1?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques?color=F1EEDC&style=for-the-badge&labelColor=F1EEDC&logo=star&label=estrelas&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques?color=F1EEDC&style=for-the-badge&labelColor=F1EEDC&logo=star&label=estrelas&logoColor=black"
         />
     </a>
     <a href="mailto:pedroxz024@gmail.com">
