@@ -25,7 +25,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
         <img 
             alt="youtube views" 
             title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=BED7DC&logo=eye&logoColor=white&style=for-the-badge&labelColor=BED7DC&logoColor=black"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=BED7DC&logo=eye&logoColor=black&style=for-the-badge&labelColor=BED7DC&logoColor=black"
         />
     </a> 
     <a href="https://github.com/PedroHenriques1?tab=repositories&sort=stargazers">
