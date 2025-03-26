@@ -39,7 +39,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=F1F0E8&labelColor=F1F0E8&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=c5e6ff&labelColor=c5e6ff&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=white"
         />
     </a> 
     <a href="mailto:pedroxz024@gmail.com">
