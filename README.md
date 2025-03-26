@@ -50,17 +50,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
         />
     </a> 
   </p>
-<!--
-<img align="right" alt="" height="190px" src="./src/study.gif">
--->
-<p align="right"> <!-- style="text-align: right;" align="right">
-<br>
- <!--
-<h3 align="center"></h3> 
--->
-  
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:pedroxz024@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pedro-henrique-da-silva-4a18852a7/)
 
 </div>
 </p>
