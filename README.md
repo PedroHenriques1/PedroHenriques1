@@ -25,28 +25,28 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
         <img 
             alt="youtube views" 
             title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=DEBF9C&logo=eye&logoColor=white&style=for-the-badge&labelColor=B3C8CF"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=B3C8CF&logo=eye&logoColor=white&style=for-the-badge&labelColor=B3C8CF"
         />
     </a> 
     <a href="https://github.com/PedroHenriques1?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques?color=55960c&style=for-the-badge&labelColor=E5E1DA&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques?color=E5E1DA&style=for-the-badge&labelColor=E5E1DA&logo=star&label=estrelas"
         />
     </a>
     <a href="mailto:pedroxz024@gmail.com">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=0d7aff&labelColor=F1F0E8&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=F1F0E8&labelColor=F1F0E8&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=white"
         />
     </a> 
     <a href="mailto:pedroxz024@gmail.com">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=954fe2&labelColor=F8F3D9&style=for-the-badge&logo=mail&label=E-mail&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=F8F3D9&labelColor=F8F3D9&style=for-the-badge&logo=mail&label=E-mail&logoColor=white"
         />
     </a> 
   </p>
