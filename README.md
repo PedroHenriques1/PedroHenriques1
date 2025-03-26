@@ -18,35 +18,35 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLNw8vS9FTTux2eTIcfOJnQ?color=89A8B2&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=89A8B2"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLNw8vS9FTTux2eTIcfOJnQ?color=B3C8CF&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=B3C8CF"
         />
     </a>
     <a href="https://www.youtube.com/@Pedro_Henriqq">
         <img 
             alt="youtube views" 
             title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=B3C8CF&logo=eye&logoColor=white&style=for-the-badge&labelColor=B3C8CF"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=BED7DC&logo=eye&logoColor=white&style=for-the-badge&labelColor=BED7DC"
         />
     </a> 
     <a href="https://github.com/PedroHenriques1?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques?color=bad9f2&style=for-the-badge&labelColor=bad9f2&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques?color=F1EEDC&style=for-the-badge&labelColor=F1EEDC&logo=star&label=estrelas"
         />
     </a>
     <a href="mailto:pedroxz024@gmail.com">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=c5e6ff&labelColor=c5e6ff&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=E5DDC5&labelColor=E5DDC5&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=white"
         />
     </a> 
     <a href="mailto:pedroxz024@gmail.com">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=F8F3D9&labelColor=F8F3D9&style=for-the-badge&logo=mail&label=E-mail&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=989383&labelColor=989383&style=for-the-badge&logo=mail&label=E-mail&logoColor=white"
         />
     </a> 
   </p>
