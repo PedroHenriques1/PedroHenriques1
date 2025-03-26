@@ -18,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLNw8vS9FTTux2eTIcfOJnQ?color=2B5282&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=2B5282"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLNw8vS9FTTux2eTIcfOJnQ?color=B4463C&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=B4463C"
         />
     </a>
     <a href="https://www.youtube.com/@Pedro_Henriqq">
