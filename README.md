@@ -18,14 +18,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLNw8vS9FTTux2eTIcfOJnQ?color=%2B5282&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLNw8vS9FTTux2eTIcfOJnQ?color=2B5282&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=2B5282"
         />
     </a>
     <a href="https://www.youtube.com/@Pedro_Henriqq">
         <img 
             alt="youtube views" 
             title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=DEBF9C&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/PedroHenriques1?tab=repositories&sort=stargazers">
