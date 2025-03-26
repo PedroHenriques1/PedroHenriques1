@@ -32,7 +32,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques?color=E5E1DA&style=for-the-badge&labelColor=E5E1DA&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques?color=bad9f2&style=for-the-badge&labelColor=bad9f2&logo=star&label=estrelas"
         />
     </a>
     <a href="mailto:pedroxz024@gmail.com">
