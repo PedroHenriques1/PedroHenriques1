@@ -39,14 +39,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi 
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/LinkedIn/PedroHenriques1?color=800080&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/Linkedin/PedroHenriques1?color=800080&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=white"
         />
     </a> 
     <a href="mailto:pedroxz024@gmail.com">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=954fe2&labelColor=633596&style=for-the-badge&logo=mail&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=954fe2&labelColor=633596&style=for-the-badge&logo=mail&label=E-mail&logoColor=white"
         />
     </a> 
   </p>
