@@ -134,9 +134,9 @@
 
 
 </div>
-
-### 📂 Dê uma olhada nos meus projetos em destaque que venho desenvolvendo:
 #
+### 📂 Dê uma olhada nos meus projetos em destaque que venho desenvolvendo:
+
 <!--
 
 #
