@@ -6,13 +6,13 @@
 <!--
 //+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+// -->
 
-
 # 👨🏻‍💻 Pedro Henrique
 
 **`Desenvolvedor`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM) – Campus Avenida Paulista. Concluí o ensino médio no Colégio Passionista São Paulo da Cruz e atualmente aprimoro minhas habilidades em desenvolvimento de software, análise de dados e web design. Tenho interesse em Java, modelagem de sistemas e infraestrutura de TI, sempre buscando aprimorar meus conhecimentos e contribuir para projetos inovadores!
+💻 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM) – Campus Avenida Paulista. Tenho grande interesse em desenvolvimento back-end com Java, com foco em construção e modelagem de sistemas orientados a objetos com boas práticas de código.
 
+🧠 Além do Java, também venho me aprimorando em análise e manipulação de banco de dados, fundamentos de infraestrutura de TI e web design. Sempre buscando aprimorar meus conhecimentos e contribuir para projetos inovadores!
 <p align="left">
     <a href="https://www.youtube.com/@Pedro_Henriqq">
         <img 
