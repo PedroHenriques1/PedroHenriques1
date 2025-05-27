@@ -8,7 +8,7 @@
 
 # 👨🏻‍💻 Pedro Henrique
 
-**`Desenvolvedor`**
+**`Backend Desenvolvedor`**
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM) – Campus Avenida Paulista. Tenho grande interesse em desenvolvimento back-end com Java, com foco em construção e modelagem de sistema com orientação a objeto com boas práticas de código.
 
