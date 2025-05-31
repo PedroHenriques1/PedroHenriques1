@@ -35,10 +35,10 @@
             src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques1?color=F1EEDC&style=for-the-badge&labelColor=F1EEDC&logo=star&label=estrelas&logoColor=black"
         />
     </a>
-    <a href="mailto:pedroxz024@gmail.com">
+    <a href="https://www.linkedin.com/in/pedro-henrique-da-silva-4a18852a7/">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Vamos nos conectar no Linkedin!" 
             src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=E5DDC5&labelColor=E5DDC5&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=black"
         />
     </a> 
