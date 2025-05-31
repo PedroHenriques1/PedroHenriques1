@@ -32,7 +32,7 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques?color=F1EEDC&style=for-the-badge&labelColor=F1EEDC&logo=star&label=estrelas&logoColor=black"
+            src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques1?color=F1EEDC&style=for-the-badge&labelColor=F1EEDC&logo=star&label=estrelas&logoColor=black"
         />
     </a>
     <a href="mailto:pedroxz024@gmail.com">
