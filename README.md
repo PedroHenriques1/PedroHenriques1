@@ -25,7 +25,7 @@
         <img 
             alt="youtube views" 
             title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJn?color=BED7DC&logo=eye&style=for-the-badge&labelColor=BED7DC&logoColor=black"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLNw8vS9FTTux2eTIcfOJnQ?color=BED7DC&logo=eye&style=for-the-badge&labelColor=BED7DC&logoColor=black"
         />
     </a> 
     <a href="https://github.com/PedroHenriques1?tab=repositories&sort=stargazers">
