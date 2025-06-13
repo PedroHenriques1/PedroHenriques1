@@ -45,7 +45,7 @@
     <a href="mailto:pedroxz024@gmail.com">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Mandar um E-mail" 
             src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=b2ab99&labelColor=b2ab99&style=for-the-badge&logo=mail&label=E-mail&logoColor=white"
         />
     </a> 
