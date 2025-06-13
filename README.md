@@ -119,8 +119,8 @@
     align="left" 
     alt="Azure" 
     title="Azure"
-    width="50px" 
-    style="padding-right: 10px;" 
+    width="30px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
         
 />
