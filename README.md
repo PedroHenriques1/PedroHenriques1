@@ -117,9 +117,9 @@
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
+    alt="Azure" 
+    title="Azure"
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
         
