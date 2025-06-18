@@ -63,7 +63,7 @@
 
 ### 🌐 Front-end & Linguagens de marcação e complementares
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,py)](https://skillicons.dev)
 
 <!--
 <img 
