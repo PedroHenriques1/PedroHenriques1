@@ -56,10 +56,14 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ⚙️ Back-end & Integrações
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,azure,py,js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,azure)](https://skillicons.dev)
+
+### 🌐 Front-end & Linguagens de marcação e complementares
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
 <!--
 <img 
