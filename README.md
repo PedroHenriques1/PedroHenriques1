@@ -59,7 +59,7 @@
 ### 🤖 Linguagens e Tecnologias
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,springboot,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,azure)](https://skillicons.dev)
 
 <!--
 <img 
