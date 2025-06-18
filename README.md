@@ -64,7 +64,7 @@
 ### 🌐 Front-end & Linguagens Complementares
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,py)](https://skillicons.dev)
 
 <!--
 <img 
