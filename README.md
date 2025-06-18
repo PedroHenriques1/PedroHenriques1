@@ -59,6 +59,9 @@
 ### 🤖 Linguagens e Tecnologias
 <br>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,springboot,azure)](https://skillicons.dev)
+
+<!--
 <img 
     align="left" 
     alt="HTML"
@@ -132,7 +135,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
   />
   
-
+-->
 
 <br/>
 
