@@ -61,7 +61,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,azure)](https://skillicons.dev)
 
-### 🌐 Front-end & Linguagens de marcação e complementares
+### 🌐 Front-end & Linguagens Complementares
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,py)](https://skillicons.dev)
 
