@@ -10,7 +10,7 @@
 
 **`Backend Desenvolvedor`**
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM) – Campus Avenida Paulista. Tenho grande interesse em desenvolvimento back-end com Java, com foco em construção e modelagem de sistema com orientação a objeto com boas práticas de código.
+💻 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM) – Campus Avenida Paulista. Tenho grande interesse em desenvolvimento back-end com Java, com foco em construção e modelagem de sistema com orientação a objeto e boas práticas de código.
 
 ☕ Além do Java, também venho me aprimorando em análise e manipulação de banco de dados, fundamentos de infraestrutura de TI em nuvem e web design. Sempre buscando aprimorar meus conhecimentos e contribuir para projetos reais e inovadores!
 <p align="left">
