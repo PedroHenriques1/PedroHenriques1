@@ -44,7 +44,7 @@
 </a>
 <a href="mailto:pedroxz024@gmail.com">
   <img 
-    src="https://custom-icon-badges.demolab.com/badge/E--mail-E5DDC5?style=for-the-badge&logo=mail&logoColor=white&labelColor=E5DDC5" 
+    src="https://custom-icon-badges.demolab.com/badge/E--mail-b2ab99?style=for-the-badge&logo=mail&logoColor=white&labelColor=b2ab99" 
     alt="E-mail" 
     title="Mandar um e-mail" 
   />
