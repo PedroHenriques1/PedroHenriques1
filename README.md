@@ -42,13 +42,13 @@
     title="Vamos nos conectar no LinkedIn!" 
   />
 </a>
-    <a href="mailto:pedroxz024@gmail.com">
-        <img 
-            alt="Seguidores" 
-            title="Mandar um E-mail" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=b2ab99&labelColor=b2ab99&style=for-the-badge&logo=mail&label=E-mail&logoColor=white"
-        />
-    </a> 
+<a href="mailto:pedroxz024@gmail.com">
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/E--mail-E5DDC5?style=for-the-badge&logo=mail&logoColor=white&labelColor=E5DDC5" 
+    alt="E-mail" 
+    title="Mandar um e-mail" 
+  />
+</a>
   </p>
 
 </div>
