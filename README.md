@@ -37,7 +37,7 @@
     </a>
 <a href="https://www.linkedin.com/in/pedro-henrique-da-silva-4a18852a7/" target="_blank">
   <img 
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Visite%20meu%20perfil-E5DDC5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=E5DDC5" 
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn--E5DDC5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=E5DDC5" 
     alt="LinkedIn" 
     title="Vamos nos conectar no LinkedIn!" 
   />
