@@ -154,7 +154,12 @@
 <a href="https://github.com/PedroHenriques1/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroHenriques1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=f7f7f7&hide=htl,scss,less&bg_color=0d1117&text_color=f7f7f7&border_radius=3&border_color=87CEEB&icon_color=87CEEB&stats_color=00FF00" alt="Most Used Languages">
 </a>
+<!--
+//teste//
+-->
+<br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=PedroHenriques1&count_private=true&show_icons=true&theme=tokyonight" />
 
 
 </div>
