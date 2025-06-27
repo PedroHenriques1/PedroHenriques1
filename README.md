@@ -163,7 +163,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriques1&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=0d1117&title_color=87CEEB&text_color=f7f7f7&border_radius=3&border_color=87CEEB&theme=tokyonight&locale=pt-br" alt="GitHub status" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriques1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&exclude_repo=Curriculo-base-pedro-&show_icons=true&title_color=f7f7f7&hide=&bg_color=0d1117&text_color=f7f7f7&border_radius=3&border_color=87CEEB&locale=pt-br" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriques1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&exclude_repo=Curriculo-base-pedro-,Cinemais&show_icons=true&title_color=f7f7f7&hide=&bg_color=0d1117&text_color=f7f7f7&border_radius=3&border_color=87CEEB&locale=pt-br" alt="Most Used Languages" />
 </a>
 
 
