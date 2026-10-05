@@ -8,11 +8,13 @@
 
 # 👨🏻‍💻 Pedro Henrique
 
-**`Backend Desenvolvedor`**
+**`Suporte Técnico | Infraestrutura de TI e Redes`**
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (UAM) – Campus Avenida Paulista. Tenho grande interesse em desenvolvimento back-end com Java, com foco em construção e modelagem de sistema com orientação a objeto e boas práticas de código.
+💻 Profissional de Tecnologia da Informação, formado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi (UAM). Tenho experiência prática em suporte técnico, diagnóstico de hardware e software, atendimento de chamados e resolução de problemas de conectividade.
 
-☕ Além do Java, também venho me aprimorando em análise e manipulação de banco de dados, fundamentos de infraestrutura de TI em nuvem e web design. Sempre buscando aprimorar meus conhecimentos e contribuir para projetos reais e inovadores!
+🌐 Atualmente, estou direcionando minha carreira para Infraestrutura de TI, Redes e Servidores, aprofundando conhecimentos em TCP/IP, IPv4, DNS, DHCP, Windows Server, Active Directory, Samba, Linux e Microsoft Azure, além dos estudos para a certificação Cisco CCNA 200-301.
+
+🚀 Busco evoluir constantemente na área de infraestrutura, colocando meus conhecimentos em prática por meio de estudos, laboratórios e projetos, com foco em Redes, Servidores e ambientes corporativos.
 <p align="left">
     <a href="https://www.youtube.com/@Pedro_Henriqq">
         <img 
