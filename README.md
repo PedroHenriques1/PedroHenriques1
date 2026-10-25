@@ -58,20 +58,17 @@
 
 ---
 
-### ⚙️ Back-end & Integrações
-<br>
+### ☁️ Infraestrutura, Sistemas & Cloud
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,azure)](https://skillicons.dev)
+![Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,azure,bash,powershell,docker,git&theme=dark&perline=8)
 
-### 🌐 Front-end & Linguagens Complementares
-<br>
+### 🌐 Monitoramento & Desenvolvimento Complementar
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,py)](https://skillicons.dev)
-
+![Skills](https://skillicons.dev/icons?i=zabbix,ansible,python,mysql,github,vscode&theme=dark&perline=6)
 
 ### ✨ Diferenciais & Conhecimentos Complementares
 
-![Extras](https://skillicons.dev/icons?i=python,powershell,mysql,git,github&theme=dark&perline=5)
+![Extras](https://skillicons.dev/icons?i=python,powershell,mysql,html,css,git,github&theme=dark&perline=5)
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
