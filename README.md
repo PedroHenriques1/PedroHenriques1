@@ -60,15 +60,15 @@
 
 ### ☁️ Infraestrutura, Sistemas & Cloud
 
-![Skills](https://skillicons.dev/icons?i=windows,ubuntu,azure,bash,powershell&theme=dark&perline=8)
+![Skills](https://skillicons.dev/icons?i=windows,azure,powershell&theme=dark&perline=8)
 
 ### 🌐 Monitoramento & Desenvolvimento Complementar
 
-![Skills](https://skillicons.dev/icons?i=zabbix,mysql,github,vscode&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=mysql,python,github,powershell&theme=dark&perline=6)
 
 ### ✨ Diferenciais & Conhecimentos Complementares
 
-![Extras](https://skillicons.dev/icons?i=python,powershell,mysql,html,css,git,github&theme=dark&perline=5)
+![Extras](https://skillicons.dev/icons?i=html,css,git,github&theme=dark&perline=5)
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
