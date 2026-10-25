@@ -20,7 +20,7 @@
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLNw8vS9FTTux2eTIcfOJnQ?color=87969c&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=87969c"
+            src="https://img.shields.io/youtube/channel/subscribers/UCLNw8vS9FTTux2eTIcfOJnQ?style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos&color=87969c"
         />
     </a>
     <a href="https://www.youtube.com/@deoprii/">
