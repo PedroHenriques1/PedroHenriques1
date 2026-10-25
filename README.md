@@ -60,11 +60,11 @@
 
 ### ☁️ Infraestrutura, Sistemas & Cloud
 
-![Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,azure,bash,powershell,docker,git&theme=dark&perline=8)
+![Skills](https://skillicons.dev/icons?i=windows,ubuntu,azure,bash,powershell&theme=dark&perline=8)
 
 ### 🌐 Monitoramento & Desenvolvimento Complementar
 
-![Skills](https://skillicons.dev/icons?i=zabbix,ansible,python,mysql,github,vscode&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=zabbix,mysql,github,vscode&theme=dark&perline=6)
 
 ### ✨ Diferenciais & Conhecimentos Complementares
 
