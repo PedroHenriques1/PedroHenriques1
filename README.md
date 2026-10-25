@@ -23,7 +23,7 @@
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLNw8vS9FTTux2eTIcfOJnQ?color=87969c&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=87969c"
         />
     </a>
-    <a href="https://www.youtube.com/@Pedro_Henriqq">
+    <a href="https://www.youtube.com/@deoprii/">
         <img 
             alt="youtube views" 
             title="Visualizações no YouTube" 
