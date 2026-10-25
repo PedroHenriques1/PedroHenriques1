@@ -16,7 +16,7 @@
 
 🚀 Busco evoluir constantemente na área de infraestrutura, colocando meus conhecimentos em prática por meio de estudos, laboratórios e projetos, com foco em Redes, Servidores e ambientes corporativos.
 <p align="left">
-    <a href="https://www.youtube.com/@Pedro_Henriqq">
+    <a href="https://www.youtube.com/@deoprii/">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -37,7 +37,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/PedroHenriques1?color=F1EEDC&style=for-the-badge&labelColor=F1EEDC&logo=star&label=estrelas&logoColor=black"
         />
     </a>
-<a href="https://www.linkedin.com/in/pedro-henrique-da-silva-4a18852a7/" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-henrique-da-silva-tech/" target="_blank">
   <img 
     src="https://custom-icon-badges.demolab.com/badge/LinkedIn--E5DDC5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=E5DDC5" 
     alt="LinkedIn" 
