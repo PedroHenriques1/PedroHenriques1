@@ -64,7 +64,7 @@
 
 ### 🌐 Monitoramento & Desenvolvimento Complementar
 
-![Skills](https://skillicons.dev/icons?i=mysql,python,github,powershell&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=mysql,python,&theme=dark&perline=6)
 
 ### ✨ Diferenciais & Conhecimentos Complementares
 
