@@ -68,6 +68,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,py)](https://skillicons.dev)
 
+
+### ✨ Diferenciais & Conhecimentos Complementares
+
+![Extras](https://skillicons.dev/icons?i=python,powershell,mysql,git,github&theme=dark&perline=5)
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 <!--
 <img 
     align="left" 
